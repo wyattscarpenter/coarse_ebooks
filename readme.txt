@@ -1,4 +1,4 @@
-This project is a script that takes ebooks (works best on epubs) and converts them to pdfs optimized for printing: 8.5 by 11, small margins, small text, numbered pages, indents instead of double line breaks. This usually reduces the page count of the ebook by about half, saving paper. Be warned: If your eyesight is poor, you may find the text of the resultant pdfs uncomfortably small. A single page of a Coarse Ebook can contain over 1000 words!
+This project is a script that takes ebooks (works best on epubs and html files) and converts them to pdfs optimized for printing: 8.5 by 11, small margins, small text, numbered pages, indents instead of double line breaks. This usually reduces the page count of the ebook by about half, saving paper. Be warned: If your eyesight is poor, you may find the text of the resultant pdfs uncomfortably small. A single page of a Coarse Ebook can contain over 1000 words!
 
 This project requires calibre's convert-ebook to be installed.
 
