@@ -8,6 +8,13 @@ replacements.txt contains lots of very specific replacements for specific books 
 
 I've lost the source file corresponding to "books/the meditations of the emperor marcus antoninus.epub.pdf", but it's probably from https://en.wikisource.org/wiki/The_Meditations_of_the_Emperor_Marcus_Antoninus or some equivalent source, somehow. Public domain, it seems.
 
+Interested in my book-formatting github projects? These inescapable follies I've embroiled myself in? Well, I have three others:
+* https://github.com/wyattscarpenter/unsong-book-fetcher/ (_Unsong_ by Scott Alexander)
+* https://github.com/wyattscarpenter/terrorisland (_Terror Island_ by by Ben Heaton and Lewis Powell)
+* https://github.com/wyattscarpenter/_why-the-lucky-stiff-printer-spool-2013 (_printer spool, 2013_ by _why the lucky stiff)
+There may be more by the time you read this, but having made all those projects really makes me think: "it's not worth making more of these projects". There's also this related script I made, that basically just scrapes wordpress blogs to aid offline reading:
+* https://github.com/wyattscarpenter/util/blob/master/scrape-wordpress.py
+
 There are two bugs in convert-ebook we currently have to fight with: (1) if you don't put two line breaks before the page number it sometimes creates a completely blank page after a particularly full page (2) all images are written to the pdf as jpegs of diminished quality. Presumably these will be sorted out some day. (TODO: how's that looking as of 2024-11-18?)
 
 The name of this project references the lack of polish in a book you print out yourself. The name is also a pointless reference to Horse_ebooks.
