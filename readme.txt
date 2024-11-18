@@ -6,6 +6,8 @@ The books subdirectory of this project contains several pdfs produced by this sc
 
 replacements.txt contains lots of very specific replacements for specific books that are not applicable to other books. This is inelegant, but there's not much we can do about that; better to have them here than not.
 
+I've lost the source file corresponding to "books/the meditations of the emperor marcus antoninus.epub.pdf", but it's probably from https://en.wikisource.org/wiki/The_Meditations_of_the_Emperor_Marcus_Antoninus or some equivalent source, somehow.
+
 There are two bugs in convert-ebook we currently have to fight with: (1) if you don't put two line breaks before the page number it sometimes creates a completely blank page after a particularly full page (2) all images are written to the pdf as jpegs of diminished quality. Presumably these will be sorted out some day.
 
 The name of this project references the lack of polish in a book you print out yourself. The name is also a pointless reference to Horse_ebooks.
